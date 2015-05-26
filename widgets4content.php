@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Widgets area (sidebars) for content (after and before)
-Plugin URI: https://github.com/systemo-biz/
+Plugin URI: https://github.com/systemo-biz/widgets4content
 Description: Widgets area for content
 Version: 20150525
 License: GPL
 Author: Systemo
 Author URI: http://systemo.biz
-GitHub Plugin URI: https://github.com/systemo-biz/
+GitHub Plugin URI: https://github.com/systemo-biz/widgets4content
 GitHub Branch: master
 */
 
