@@ -55,5 +55,5 @@ function wrapper_post_for_widges($content){
 	
 	return $html;
 }
-add_filter('the_excerpt', 'wrapper_post_for_widges', 10, 2);
-add_filter('the_content', 'wrapper_post_for_widges', 10, 2);
+add_filter('the_excerpt', 'wrapper_post_for_widges');
+add_filter('the_content', 'wrapper_post_for_widges');
